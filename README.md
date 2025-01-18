@@ -16,8 +16,6 @@
 ---
 
 ## 📊 **GitHub Insights**  
-### Contributions  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lathees-dev&theme=github)  
 
 ### Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lathees-dev&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lathees-dev&layout=compact&theme=dark)  
